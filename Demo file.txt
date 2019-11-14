@@ -2,4 +2,8 @@ this is just a demo txt file. Revised version of brach text 2
 Edited version-1
 edited version -2
 Branch text
+ branch-call-2
 This is branch text -2
+=======
+This is the Master edit
+ master
